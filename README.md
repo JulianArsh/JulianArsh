@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm a Software Engineer in the Making!
 
-<!--
-**JulianArsh/JulianArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Science Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🚀 Building intelligent systems and innovative software solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- JavaScript | React | Node.js
+- Python | SQL
+- HTML | CSS
+- Git | GitHub
+
+### 🤖 Areas of Interest
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+
+### 🌱 Currently
+Constantly learning, building projects, exploring new technologies, and turning ideas into reality.
+
+### 🎯 My Mission
+**Code. Create. Innovate. Lead.**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
