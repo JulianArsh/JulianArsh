@@ -1,43 +1,52 @@
-# 👋 Hey, I'm Julian!
+# 👋 Hey, I'm Julian Arsh!
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast
+### 💻 Aspiring Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
 
-I am a Computer Science student passionate about building innovative software solutions, developing intelligent systems, and using technology to solve real-world problems.
+I am a Computer Science student passionate about building innovative software, developing intelligent applications, and leveraging technology to solve real-world problems.
 
-I enjoy transforming ideas into functional applications, exploring emerging technologies, and continuously improving my software engineering skills.
+My interests span **Software Engineering, Full-Stack Development, Artificial Intelligence, and Machine Learning**. I enjoy turning ideas into practical solutions, exploring emerging technologies, and continuously expanding my technical knowledge through hands-on projects.
+
+I believe in learning by building, solving problems through code, and creating technology that makes a meaningful difference.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Software Engineering and Full-Stack Development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌱 Constantly learning, building, and experimenting with new technologies
-- 🎯 Focused on creating impactful, scalable, and user-centered solutions
-- 🤝 Open to collaboration, internships, and software development opportunities
+- 🎓 Computer Science Student with a passion for technology and innovation.
+- 💻 Interested in Software Engineering and Full-Stack Development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 📊 Building practical projects involving Python, data analysis, and predictive modelling.
+- 🌱 Continuously learning and experimenting with new technologies.
+- 🎯 Interested in developing scalable, efficient, and user-centered applications.
+- 🤝 Open to collaboration, internships, and exciting software development opportunities.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Technologies
 
-**Programming Languages**
+### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend Development**
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend Development**
+### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Tools & Technologies**
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,30 +54,74 @@ I enjoy transforming ideas into functional applications, exploring emerging tech
 
 ---
 
+## 🌟 Featured Projects
+
+### 🏨 Hotel Booking Cancellation Prediction
+
+A machine learning project focused on predicting hotel booking cancellations using historical reservation data.
+
+**Highlights:**
+- Exploratory Data Analysis and feature engineering.
+- Data preprocessing and feature selection.
+- Decision Tree and Random Forest classification.
+- Five-fold stratified cross-validation.
+- Hyperparameter investigation.
+- Independent test-set evaluation.
+- Model comparison using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Average Precision.
+
+**Best Model:** Pre-Arrival Random Forest.
+
+**Test Accuracy:** 86.91%
+
+🔗 [View Project Repository](https://github.com/JulianArsh/hotel-booking-cancellation-prediction)
+
+---
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianArsh&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianArsh&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's GitHub Statistics"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianArsh&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianArsh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JulianArsh&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JulianArsh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-- Building full-stack web applications.
+- Building practical full-stack web applications.
 - Exploring AI-powered software solutions.
-- Strengthening my backend and database development skills.
-- Developing practical projects that address real-world challenges.
+- Developing machine learning and data analysis projects.
+- Strengthening backend development and database skills.
+- Improving problem-solving and software engineering practices.
+- Exploring new technologies and turning ideas into functional projects.
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 My Goals
 
-I'm always interested in connecting with developers, learning from others, and exploring opportunities to collaborate.
+- Become a skilled and versatile Software Engineer.
+- Build impactful applications that solve real-world problems.
+- Develop deeper expertise in Artificial Intelligence and Machine Learning.
+- Contribute to meaningful open-source projects.
+- Collaborate with developers and technology communities.
+- Continuously grow through practical experience and lifelong learning.
 
-- 💻 GitHub: [@JulianArsh](https://github.com/JulianArsh)
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, exchanging ideas, learning from others, and exploring opportunities to collaborate.
+
+- 💻 **GitHub:** [@JulianArsh](https://github.com/JulianArsh)
+
+Open to collaboration, internships, and opportunities to contribute to innovative projects.
 
 ---
 
@@ -80,8 +133,8 @@ I'm always interested in connecting with developers, learning from others, and e
 
 ### 💡 My Philosophy
 
-**CODE. CREATE. INNOVATE. LEAD.**
+**CODE. CREATE. INNOVATE. IMPACT.**
 
-*"Great software is not just about writing code; it's about solving problems and creating meaningful impact."*
+*"Great software is not just about writing code; it's about understanding problems, building meaningful solutions, and creating lasting impact."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, check out my projects, and connect with me.
