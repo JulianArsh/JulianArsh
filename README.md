@@ -4,7 +4,7 @@
 
 I am a Computer Science student passionate about building innovative software, developing intelligent applications, and leveraging technology to solve real-world problems.
 
-My interests span **Software Engineering, Full-Stack Development, Artificial Intelligence, and Machine Learning**. I enjoy turning ideas into practical solutions, exploring emerging technologies, and continuously expanding my technical knowledge through hands-on projects.
+My interests span **Software Engineering, Full-Stack Development, Artificial Intelligence, Machine Learning, and Data Science**. I enjoy transforming ideas into practical solutions, exploring emerging technologies, and continuously strengthening my technical skills through hands-on projects.
 
 I believe in learning by building, solving problems through code, and creating technology that makes a meaningful difference.
 
@@ -12,7 +12,7 @@ I believe in learning by building, solving problems through code, and creating t
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student with a passion for technology and innovation.
+- 🎓 Computer Science student passionate about technology and innovation.
 - 💻 Interested in Software Engineering and Full-Stack Development.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 📊 Building practical projects involving Python, data analysis, and predictive modelling.
@@ -45,6 +45,8 @@ I believe in learning by building, solving problems through code, and creating t
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Development Tools
 
@@ -60,7 +62,7 @@ I believe in learning by building, solving problems through code, and creating t
 
 A machine learning project focused on predicting hotel booking cancellations using historical reservation data.
 
-**Highlights:**
+**Key Highlights:**
 - Exploratory Data Analysis and feature engineering.
 - Data preprocessing and feature selection.
 - Decision Tree and Random Forest classification.
@@ -69,11 +71,38 @@ A machine learning project focused on predicting hotel booking cancellations usi
 - Independent test-set evaluation.
 - Model comparison using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Average Precision.
 
-**Best Model:** Pre-Arrival Random Forest.
+**Best Performing Model:** Pre-Arrival Random Forest
 
 **Test Accuracy:** 86.91%
 
-🔗 [View Project Repository](https://github.com/JulianArsh/hotel-booking-cancellation-prediction)
+🔗 **[View Project Repository](https://github.com/JulianArsh/hotel-booking-cancellation-prediction)**
+
+---
+
+### 🌍 World Population Analysis and Forecasting
+
+A data analysis and time-series forecasting project investigating historical population trends across countries, geographical regions, and income groups.
+
+**Key Highlights:**
+- Data cleaning and preprocessing.
+- Global population growth analysis.
+- Country-level population comparisons.
+- Regional population growth analysis.
+- Income-group population comparisons.
+- Focused analysis of the East Asia & Pacific region.
+- Time-series preparation and stationarity testing.
+- Development and evaluation of population forecasting models.
+
+**Forecasting Objectives:**
+- Estimate East Asia & Pacific population levels for 2025, 2030, and 2035.
+- Investigate population trends in selected countries.
+- Evaluate forecasting performance using appropriate statistical metrics.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, and Scikit-learn.
+
+**Project Status:** In Progress
+
+🔗 **[View Project Repository](https://github.com/JulianArsh/World-Population-Analysis-and-Forecasting)**
 
 ---
 
@@ -98,9 +127,10 @@ A machine learning project focused on predicting hotel booking cancellations usi
 - Building practical full-stack web applications.
 - Exploring AI-powered software solutions.
 - Developing machine learning and data analysis projects.
+- Working on population analysis and forecasting.
 - Strengthening backend development and database skills.
 - Improving problem-solving and software engineering practices.
-- Exploring new technologies and turning ideas into functional projects.
+- Exploring emerging technologies and turning ideas into functional projects.
 
 ---
 
@@ -119,7 +149,7 @@ A machine learning project focused on predicting hotel booking cancellations usi
 
 I'm always interested in connecting with developers, exchanging ideas, learning from others, and exploring opportunities to collaborate.
 
-- 💻 **GitHub:** [@JulianArsh](https://github.com/JulianArsh)
+💻 **GitHub:** [@JulianArsh](https://github.com/JulianArsh)
 
 Open to collaboration, internships, and opportunities to contribute to innovative projects.
 
